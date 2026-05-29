@@ -9,8 +9,8 @@ Bem-vindo ao nosso projeto "Lâmpada-Interativa"
 5. Criar projeto/repositorio no github
 
 - Instruções de uso:
-. Clique no botão verde "Ligar Lâmpada" para ascender a lâmpada;
-. Clique no botão vermelho "Desligar Lâmpada" para apagar a lâmpada.
+1. Clique no botão verde "Ligar Lâmpada" para ascender a lâmpada;
+2. Clique no botão vermelho "Desligar Lâmpada" para apagar a lâmpada.
 
 - Colaboradores:
 | Nicolas Medeiros
