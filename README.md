@@ -1,51 +1,61 @@
-# Lâmpada Interativa
+# Painel de Controle - Lâmpada Interativa
 
-Projeto desenvolvido como atividade prática para aplicação de conceitos básicos de desenvolvimento web utilizando HTML, CSS e JavaScript.
+Projeto desenvolvido como atividade prática para evoluir a página **Lâmpada Interativa** para um **Painel de Controle Responsivo**, aplicando conceitos de HTML, CSS, JavaScript, Box Model, Flexbox, GitHub e deploy no Render.
 
-## Sobre o Projeto
+## 🔗 Projeto Online
 
-A proposta consistiu em criar uma página interativa capaz de simular o acionamento de uma lâmpada através de botões, permitindo ao usuário ligá-la e desligá-la dinamicamente.
+Acesse o projeto publicado no Render:
 
-## Requisitos da Atividade
+https://lampada-interativa.onrender.com
 
-* Levantamento de requisitos do produto;
-* Desenvolvimento de uma versão MVP (Minimum Viable Product);
-* Estruturação da página web;
-* Criação de quadro de organização utilizando Canvas;
-* Criação e versionamento do projeto no GitHub.
+## 📌 Sobre o Projeto
 
-## Tecnologias Utilizadas
+O projeto começou como uma página simples para ligar e desligar uma lâmpada usando JavaScript.
 
-* HTML5
-* CSS3
-* JavaScript
+Nesta nova etapa, a interface foi evoluída para um painel de controle com dois cards principais:
 
-## Como Utilizar
+- um card para controle da lâmpada;
+- um card para exibição do status do sistema, indicando ON ou OFF.
 
-1. Clique no botão **"Ligar Lâmpada"** para acender a lâmpada.
-2. Clique no botão **"Desligar Lâmpada"** para apagar a lâmpada.
+A interação permite ao usuário clicar no botão para alterar o estado da lâmpada, trocar a imagem exibida e atualizar o status do sistema em tempo real.
 
-## Objetivos de Aprendizagem
+## 🧠 Conceitos Aplicados
 
-Durante o desenvolvimento deste projeto foram praticados conceitos como:
+Durante o desenvolvimento foram aplicados conceitos como:
 
-* Estruturação de páginas com HTML;
-* Estilização com CSS;
-* Manipulação do DOM utilizando JavaScript;
-* Eventos de clique;
-* Organização e versionamento de código com Git e GitHub.
+- estruturação de páginas com HTML;
+- estilização com CSS;
+- Box Model: margin, padding, border e border-radius;
+- Flexbox para organização e responsividade;
+- manipulação do DOM com JavaScript;
+- eventos de clique;
+- versionamento com Git e GitHub;
+- publicação do projeto no Render.
 
-## Equipe
+## 🛠️ Tecnologias Utilizadas
 
-* Nicolas Medeiros
-* Arthur Vinicius
-* Nathan Ribas
-* Luccas Vinicius
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Render
 
-## Orientação
+## 🚀 Como Utilizar
 
-**Professor:** Alberico Fagunde Da Silva
+1. Acesse o link do projeto publicado.
+2. Clique em **Ligar Lâmpada** para acender a lâmpada.
+3. O status será alterado para **ON**.
+4. Clique em **Desligar Lâmpada** para apagar a lâmpada.
+5. O status será alterado para **OFF**.
 
-## Observação
+## 📁 Estrutura do Projeto
 
-Este projeto foi desenvolvido com fins educacionais como parte das atividades da disciplina, servindo como introdução ao desenvolvimento web e ao trabalho colaborativo utilizando GitHub.
+```text
+lampada-interativa/
+├── img/
+│   ├── lampada-apagada.png
+│   └── lampada-acesa.png
+├── index.html
+├── style.css
+└── script.js
