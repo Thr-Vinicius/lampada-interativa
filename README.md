@@ -54,18 +54,21 @@ Durante o desenvolvimento foram aplicados conceitos como:
 3. O status será alterado para **ON**.
 4. Clique em **Desligar Lâmpada** para apagar a lâmpada.
 5. O status será alterado para **OFF**.
-
+   
 ## 📁 Estrutura do Projeto
 
 ```text
 lampada-interativa/
-├── img/
-│   ├── lampada-apagada.png
-│   └── lampada-acesa.png
-├── index.html
-├── style.css
-└── script.js
-```
+├── README.md
+└── lampada-interativa/
+    ├── img/
+    │   ├── lampada-apagada.png
+    │   └── lampada-acesa.png
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    └── sprint 1Prod.csv
+```md
 ## 🌐 Deploy
 
 O projeto foi publicado no Render como um **Static Site**.
