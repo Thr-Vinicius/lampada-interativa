@@ -69,6 +69,11 @@ lampada-interativa/
     ├── script.js
     └── sprint 1Prod.csv
 ```
+
+## 🖼️ Prévia do Projeto
+
+<img width="1782" height="1113" alt="image" src="https://github.com/user-attachments/assets/432017a0-4a49-4d87-8b90-5199f0363aee" />
+
 ## 🌐 Deploy
 
 O projeto foi publicado no Render como um **Static Site**.
@@ -78,8 +83,4 @@ Configuração utilizada:
 - Branch: `main`
 - Build Command: vazio
 - Publish Directory: `lampada-interativa`
-
-## 🖼️ Prévia do Projeto
-
-<img width="1782" height="1113" alt="image" src="https://github.com/user-attachments/assets/432017a0-4a49-4d87-8b90-5199f0363aee" />
 
