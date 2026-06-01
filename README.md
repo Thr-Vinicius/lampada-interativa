@@ -8,6 +8,12 @@ Acesse o projeto publicado no Render:
 
 https://lampada-interativa.onrender.com
 
+## 💻 Repositório
+
+Código-fonte disponível em:
+
+https://github.com/Thr-Vinicius/lampada-interativa
+
 ## 📌 Sobre o Projeto
 
 O projeto começou como uma página simples para ligar e desligar uma lâmpada usando JavaScript.
@@ -59,3 +65,13 @@ lampada-interativa/
 ├── index.html
 ├── style.css
 └── script.js
+```
+## 🌐 Deploy
+
+O projeto foi publicado no Render como um **Static Site**.
+
+Configuração utilizada:
+
+- Branch: `main`
+- Build Command: vazio
+- Publish Directory: `lampada-interativa`
