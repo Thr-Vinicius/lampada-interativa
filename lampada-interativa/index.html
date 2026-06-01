@@ -3,27 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sprint 1 - Lâmpada Interativa</title>
+  <title>Painel de Controle - Lâmpada</title>
 
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <div class="box-projeto">
-    <h1>Projeto Lâmpada Interativa</h1>
+  <main class="painel-container">
+    <section class="card-dispositivo">
+      <h1>Painel de Controle</h1>
+      <p>Controle o sistema da lâmpada interativa.</p>
 
-    <p>Clique no botão para ligar ou desligar o sistema.</p>
+      <img
+        id="lampada-visual"
+        class="lampada-img"
+        src="img/lampada-apagada.png"
+        alt="Lâmpada Apagada"
+      >
 
-    <img 
-      id="lampada-visual" 
-      src="img/lampada-apagada.png" 
-      alt="Lâmpada Apagada"
-    >
+      <button id="btn-acao" class="btn-controle">
+        Ligar Lâmpada
+      </button>
+    </section>
 
-    <button id="btn-acao" class="btn-interativo">
-      Ligar Lâmpada
-    </button>
-  </div>
+    <section class="card-dispositivo">
+      <h2>Status</h2>
+      <p>Sistema Operacional</p>
+
+      <div id="status-sistema" class="status desligado">
+        OFF
+      </div>
+    </section>
+  </main>
 
   <script src="script.js"></script>
 </body>
