@@ -68,7 +68,7 @@ lampada-interativa/
     ├── style.css
     ├── script.js
     └── sprint 1Prod.csv
-```md
+```
 ## 🌐 Deploy
 
 O projeto foi publicado no Render como um **Static Site**.
