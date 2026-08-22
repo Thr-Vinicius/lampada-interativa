@@ -1,7 +1,8 @@
 # Painel de Controle - Lâmpada Interativa
 
-# Status: Projeto escolar concluído e arquivado.
+´´´# Status: Projeto escolar concluído e arquivado.
 Este repositório permanece disponível como registro da atividade e do processo de aprendizado.
+´´´
 
 Projeto desenvolvido como atividade prática para evoluir a página **Lâmpada Interativa** para um **Painel de Controle Responsivo**, aplicando conceitos de HTML, CSS, JavaScript, Box Model, Flexbox, GitHub e deploy no Render.
 
